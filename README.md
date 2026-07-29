@@ -14,7 +14,7 @@ Para acessar os repositórios com o código-fonte de cada camada da aplicação:
 ---
 
 
-## 📄 Documentação e Arquitetura
+##  Documentação e Arquitetura
 
 A documentação funcional do sistema abrange os casos de uso, arquitetura e requisitos da solução.
 

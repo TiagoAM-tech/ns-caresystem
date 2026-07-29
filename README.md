@@ -17,7 +17,7 @@ Para acessar os repositórios com o código-fonte de cada camada da aplicação:
 
 A documentação funcional do sistema abrange os casos de uso, arquitetura e requisitos da solução.
 
-* 📄 **Documentação do Projeto:** [Ver Documentação](./docs/Documentacao_NS_Care_System.docx) 
+📄 **Documentação do Projeto:** [Ver Documentação (.docx)](./NS-CareSystem-Documentacao-Tecnica.docx) 
 
 ---
 

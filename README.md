@@ -13,11 +13,13 @@ Para acessar os repositórios com o código-fonte de cada camada da aplicação:
 
 ---
 
+
 ## 📄 Documentação e Arquitetura
 
 A documentação funcional do sistema abrange os casos de uso, arquitetura e requisitos da solução.
 
-📄 **Documentação do Projeto:** NS-CareSysten-Documentacao-Tecnica.docx
+* 📄 **Documentação em Word:** [Baixar Documentação (.docx)](./NS-CareSyster-Documentacao-Tecnica.docx)
+* 📖 **Documentação em Markdown:** [Ler Documentação Completa](./NS-CareSystem-Documentacao-Completa.md)
                                 
 
 ---

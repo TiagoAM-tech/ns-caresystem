@@ -32,6 +32,6 @@ A documentação funcional do sistema abrange os casos de uso, arquitetura e req
 
 ---
 
-## 🔒 Segurança e Privacidade
+##  Segurança e Privacidade
 
 Este repositório central visa expor a arquitetura, telas e documentação da solução. Nenhuma chave de acesso, credencial ou dado sensível real é exposto no código público.
